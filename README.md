@@ -1,5 +1,5 @@
 ### Howdy 🤠
-<a href="https://www.linkedin.com/in/friedmanjs/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/friedmanjs/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 Huge nerd with a history as an Analyst in Renewable Energy, aspiring to become a Software Engineer. 
 
